@@ -78,6 +78,15 @@ export const backSkillsList = [
 
 export const projectsList = [
   {
+    label: "OLX Clone",
+    imgSrc: "images/olx.jpg",
+    src: "https://enormous-library-3081-olx.vercel.app/",
+    githubSrc: "https://github.com/Tanmoy-M17/enormous-library-3081",
+    description:
+      "OLX is the perfect online marketplace to buy and sell locally! No need to visit the flea market to find the best deals on pre-owned items! Here you'll find ...",
+    stack: [ "HTML", "CSS","Chakra UI","Bootstrap","React js","Redux"],
+  },
+  {
     label: "Lumen5 Clone",
     imgSrc: "images/lumen5.jpg",
     src: "https://lumen5-clone.netlify.app/",
